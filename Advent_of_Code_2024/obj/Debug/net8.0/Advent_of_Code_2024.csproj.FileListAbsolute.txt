@@ -1,0 +1,14 @@
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\Advent_of_Code_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\Advent_of_Code_2024.AssemblyInfoInputs.cache
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\Advent_of_Code_2024.AssemblyInfo.cs
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\Advent_of_Code_2024.csproj.CoreCompileInputs.cache
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\bin\Debug\net8.0\Advent_of_Code_2024.exe
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\bin\Debug\net8.0\Advent_of_Code_2024.deps.json
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\bin\Debug\net8.0\Advent_of_Code_2024.runtimeconfig.json
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\bin\Debug\net8.0\Advent_of_Code_2024.dll
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\bin\Debug\net8.0\Advent_of_Code_2024.pdb
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\Advent_of_Code_2024.dll
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\refint\Advent_of_Code_2024.dll
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\Advent_of_Code_2024.pdb
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\Advent_of_Code_2024.genruntimeconfig.cache
+C:\Users\idafu\source\repos\Advent_of_Code_2024\Advent_of_Code_2024\obj\Debug\net8.0\ref\Advent_of_Code_2024.dll
